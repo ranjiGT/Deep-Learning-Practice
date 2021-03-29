@@ -1,2 +1,2 @@
-# Hitmonchan
-Will contain codes for DeepL, on Keras and Tensorflow
+# Deep Learning for Data Science
+Codes for Neural Nets, on Keras and Tensorflow
